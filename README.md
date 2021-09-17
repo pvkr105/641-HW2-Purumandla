@@ -1,6 +1,6 @@
 # 641-HW2-Purumandla
 
-#VAMSHI KRISHNA REDDY PURUMANDLA#
+# **VAMSHI KRISHNA REDDY PURUMANDLA** #
 * I'm into Music.
 * I like to Travel.
 * I'm into Fitness.
