@@ -9,3 +9,10 @@
 I completed my Undergraduate in Computer Science Engineering in 2020. I have done my major project on Data Analytics.
 
 [meme] https://i.imgur.com/1lWKvMe.jpeg
+
+
+## **PROJECTS**
+  * Predictive Maintenance
+
+
+  * E-Commerce Website - Django
