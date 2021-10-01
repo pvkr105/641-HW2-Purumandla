@@ -6,9 +6,7 @@
 * I'm into Fitness.
 
 ## **TECHINICAL BACKGROUND**
-I completed my Undergraduate in Computer Science Engineering in 2020. I have done my major project on Data Analytics.
-
-[meme] https://i.imgur.com/1lWKvMe.jpeg
+I completed my Undergraduate in Computer Science Engineering in 2020. I have done my major project on Data Analytics. Currently pursuing Master at Grand Valley State University in Applied Computer Science.
 
 
 ## **PROJECTS**
@@ -23,4 +21,7 @@ This project is also published in Kaggle with additional step by step informatio
 Thanks to https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM for the code.
 
   - **E-Commerce Website - Django**
-  
+
+This Web Development project deals with developing an E-commerce Website. It provides the user with a list of the different products available for purchase in the online store.A shopping cart is provided. After the products are selected, it is sent for the order confirmation. The system is implemented using Python’s web framework Django and SQLite Database which comes with the framework.
+
+The website will display products, customers can browse the catalog and select products, customer can remove products from their cart specifying the quantity of each item. Selected items will be stored in a cart. At checkout, the items in the cart will be presented as an order. Customers can pay for the items in the cart through a payment portal to complete the order. The project also provides security with the use of login ID and passwords, so that no unauthorized users can access your account. Only authorized person with access authority can access the software.
